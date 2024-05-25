@@ -6,8 +6,6 @@
 
 ### <div align="center">I'm John Bradill Mukhwana, am a Software Engineer and cybersecurity specialist 👨‍💻  🚀</div>  
   
-
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
   
 
 - 🌱 I’m currently learning Dart Programming,Cybersecurity  Penetration testing  
