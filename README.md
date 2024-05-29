@@ -8,7 +8,7 @@
   
   
 
-- 🌱 I’m currently learning Dart Programming,Cybersecurity  Penetration testing  
+- 🌱 I’m currently learning Dart Programming,Cybersecurity  Penetration testing. 
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
