@@ -156,7 +156,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=john-mukhwana&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="john-mukhwana" /></p><br>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=john-mukhwana&" alt="john-mukhwana" /></p><br>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=john-mukhwana&layout=compact&theme=vision-friendly-dark" alt="john-mukhwana" /></p><br>
 
 
 ## TROPHIES 
