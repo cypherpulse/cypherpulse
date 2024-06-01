@@ -1,4 +1,4 @@
-<div &layout=compact&theme=vision-friendly-dark>
+
 
 # John-Mukhwana
 <div align="center">
@@ -162,4 +162,4 @@
 ## TROPHIES 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=john-mukhwana" alt="john-mukhwana" /></a> </p>
 
-</div>
+
