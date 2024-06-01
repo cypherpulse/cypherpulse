@@ -152,9 +152,9 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=john-mukhwana&show_icons=true&locale=en&layout=compact &theme=vision-friendly-dark" alt="john-mukhwana" /></p><br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=john-mukhwana&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="john-mukhwana" /></p><br>
 
-<p><img align="center" style="background-color:black;" src="https://github-readme-streak-stats.herokuapp.com/?user=john-mukhwana&" alt="john-mukhwana" /></p><br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=john-mukhwana&" alt="john-mukhwana" /></p><br>
 
 
 ## TROPHIES 
