@@ -1,4 +1,4 @@
-<div style="background-color: lightgreen; padding: 20px;">
+<div style="background-color: lightgreen;">
 
 # John-Mukhwana
 <div align="center">
