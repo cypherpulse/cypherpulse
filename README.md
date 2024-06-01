@@ -2,7 +2,7 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-  
+<div  style="background-color: lightgreen;">  
 ### <div align="center">I'm John Bradley Mukhwana, a Software Engineer and Junior Cybersecurity specialist 👨‍💻 Learning new technologies Everyday 🚀</div>  
   
 
@@ -152,11 +152,12 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=john-mukhwana&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="john-mukhwana" /></p><br>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=john-mukhwana&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="john-mukhwana" /></p><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=john-mukhwana&" alt="john-mukhwana" /></p><br>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=john-mukhwana&" alt="john-mukhwana" /></p><br>
 
 
 ## TROPHIES 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=john-mukhwana" alt="john-mukhwana" /></a> </p>
 
+</div>
