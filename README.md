@@ -1,4 +1,4 @@
-<div style="background-color:green;">
+<div &layout=compact&theme=vision-friendly-dark>
 
 # John-Mukhwana
 <div align="center">
