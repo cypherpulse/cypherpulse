@@ -3,7 +3,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
-### <div align="center">I'm John Bradley Mukhwan, a Software Engineer and Junior Cybersecurity specialist 👨‍💻 Learning new technologies Everyday 🚀</div>  
+### <div align="center">I'm John Bradley Mukhwana, a Software Engineer and Junior Cybersecurity specialist 👨‍💻 Learning new technologies Everyday 🚀</div>  
   
 
 -   
@@ -107,8 +107,8 @@
 
 
 ## Connect with me  
-<div align="center">
-<a href="https://dev.to/rishavanand" target="_blank">
+<div align="center;">
+<a href="https://dev.to/John-Mukhwana" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/John-Mukhwana" target="_blank">
@@ -152,9 +152,9 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=john-mukhwana&show_icons=true&locale=en&layout=compact" alt="john-mukhwana" /></p><br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=john-mukhwana&show_icons=true&locale=en&layout=compact &theme=vision-friendly-dark" alt="john-mukhwana" /></p><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=john-mukhwana&" alt="john-mukhwana" /></p><br>
+<p><img align="center" style="background-color:black;" src="https://github-readme-streak-stats.herokuapp.com/?user=john-mukhwana&" alt="john-mukhwana" /></p><br>
 
 
 ## TROPHIES 
