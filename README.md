@@ -1,8 +1,10 @@
+<div style="background-color: lightgreen; padding: 20px;">
+
 # John-Mukhwana
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-<div  style="background-color: lightgreen;">  
+  
 ### <div align="center">I'm John Bradley Mukhwana, a Software Engineer and Junior Cybersecurity specialist 👨‍💻 Learning new technologies Everyday 🚀</div>  
   
 
