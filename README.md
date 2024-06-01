@@ -14,7 +14,7 @@
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: The original name for Windows was 'Interface Manager' before it was changed to Windows in 1985.💻
   
 
 <br/>  
