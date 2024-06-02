@@ -123,7 +123,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=John-Mukhwana&show_icons=true&count_private=true&hide_border=true&layout=compact&theme=vision-friendly-dark" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=John-Mukhwana &show_icons=true&count_private=true&hide_border=true&layout=compact&theme=vision-friendly-dark" align="center" /></div>  
 
 <br/>  
 
@@ -133,7 +133,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=John-Mukhwana&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=John-Mukhwana &&style=flat-square" align="center" />
 </div>  
   
 
