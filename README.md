@@ -8,7 +8,6 @@
 ### <div align="center">I'm John Bradley Mukhwana, a Software Engineer and Junior Cybersecurity specialist 👨‍💻 Learning new technologies Everyday 🚀</div>  
   
 
--   
   
 
 - 🌱 I’m currently learning JAVASCRIPT,Dart With FLUTTER,REACT JS,HONO,DRIZZLE ORM, CYBERSECURITY
