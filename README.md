@@ -123,7 +123,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=John-Mukhwana &show_icons=true&count_private=true&hide_border=true&layout=compact&theme=vision-friendly-dark" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=John-Mukhwana&show_icons=true&count_private=true&hide_border=true&layout=compact&theme=vision-friendly-dark" align="center" /></div>  
 
 <br/>  
 
@@ -133,7 +133,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=John-Mukhwana &&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=John-Mukhwana&&style=flat-square" align="center" />
 </div>  
   
 
@@ -154,9 +154,9 @@
 
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=john-mukhwana&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="john-mukhwana" /></p><br>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=John-Mukhwana&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="john-mukhwana" /></p><br>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=john-mukhwana&layout=compact&theme=vision-friendly-dark" alt="john-mukhwana" /></p><br>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=John-Mukhwana&layout=compact&theme=vision-friendly-dark" alt="john-mukhwana" /></p><br>
 
 
 ## TROPHIES 
