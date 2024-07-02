@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning JAVASCRIPT,Dart With FLUTTER,REACT JS,HONO,DRIZZLE ORM, CYBERSECURITY
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to SERN stack and related technologies  
   
 
 - ⚡ Fun fact: The original name for Windows was 'Interface Manager' before it was changed to Windows in 1985. 💻✨"  
