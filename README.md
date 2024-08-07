@@ -86,7 +86,7 @@
 
 ## Github Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=John-Mukhwana&theme=radical)
+
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=John-Mukhwana&show_icons=true&hide_border=true&layout=compact&theme=vision-friendly-dark" align="center" /></div>  
 
 <br/>  
@@ -121,6 +121,6 @@
 
 
 ## TROPHIES 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=John-Mukhwana" alt="john-mukhwana" /></a> </p>
+<p align="left"> <a href="https://github.com/John-Mukhwana/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=John-Mukhwana" alt="john-mukhwana" /></a> </p>
 
 
