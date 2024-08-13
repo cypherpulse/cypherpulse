@@ -5,7 +5,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
-### <div align="center">I'm John Bradley Mukhwana, a Software Engineer and Junior Cybersecurity specialist 👨‍💻 Learning new technologies Everyday 🚀</div>  
+### <div align="center">I'm John Bradill Mukhwana, a Software Engineer and Junior Cybersety   specialist 👨‍💻 Learning new technologies Everyday 🚀</div>  
   
 
   
