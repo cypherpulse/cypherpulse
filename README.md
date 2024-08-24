@@ -10,7 +10,7 @@
 
   
 
-- 🌱 I’m currently learning JAVASCRIPT,Dart With FLUTTER,REACT JS,HONO,DRIZZLE ORM,POSTMAN 
+- 🌱 I’m currently learning JAVASCRIPT,Dart With FLUTTER,REACT JS,HONO,DRIZZLE ORM,POSTMAN API
   
 
 - ❓ Ask me about anything related to SERN  stack and related technologies  
