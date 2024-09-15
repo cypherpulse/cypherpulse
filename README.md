@@ -5,7 +5,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
-### <div align="center">I'm John Bradill Mukhwana, a Software Engineer and Cybersecurity  Enthusiast  👨‍💻 Learning new technologies Everyday to be a valuable Asset  in the Technological World 🚀</div>  
+### <div align="center">I'm John Bradill Mukhwana, a Software Engineer and Cybersecurity  Enthusiast  👨‍💻 Learning new Technologies Everyday to be a valuable Asset  in the Technological World 🚀</div>  
   
 
   
