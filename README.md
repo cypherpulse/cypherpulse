@@ -114,10 +114,17 @@
 <br />
 
 
+# 📊 GitHub Streak:
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=John-Mukhwana&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="john-mukhwana" /></p><br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=john-mukhwana&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=John-Mukhwana&layout=compact&theme=vision-friendly-dark" alt="john-mukhwana" /></p><br>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=john-mukhwana&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
 
 
 
