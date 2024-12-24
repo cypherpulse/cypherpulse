@@ -141,10 +141,6 @@
 
 </div>
 
----
-[![](https://visitcount.itsvg.in/api?id=john-mukhwana&icon=5&color=0)](https://visitcount.itsvg.in)
-
----
 
 ## ✍️ Random Dev Quote
 <br/>
