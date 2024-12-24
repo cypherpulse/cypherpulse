@@ -70,7 +70,7 @@
 <br/>  
 
 
-## Connect with me  
+## 🌐Connect with me  
 <div align="center;">
 <a href="https://dev.to/John-Mukhwana" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
@@ -78,16 +78,23 @@
 <a href="https://github.com/John-Mukhwana" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/johnbradillmukhwana) 
 </div>  
   
 
 <br/> 
 
+---
 
-## Github Stats  
+## ⚡Github Stats  
 
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=John-Mukhwana&show_icons=true&hide_border=true&layout=compact&theme=vision-friendly-dark" align="center" /></div>  
+<div align="center">
+  
+![](https://github-readme-stats.vercel.app/api?username=john-mukhwana&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+</div>  
 
 <br/>  
 
@@ -111,39 +118,45 @@
 <br/>  
 
 
-<br />
+---
 
 
-# 📊 GitHub Streak:
-
-
-<div align="centrer"> 
-  < a href="https://github-readme-streak-stats.herokuapp.com/?user=john-mukhwana&theme=dark&hide_border=false">
-    
-  </div>
+## 📊 GitHub Streak
 
 <br/>
+<div align="center">
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=john-mukhwana&theme=vision-friendly-dark&hide_border=false)<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=john-mukhwana&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=john-mukhwana&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
 
 ---
 
+## 🔝 Top Contributed Repo
 
+<br/>
+<div align="center">
+  
+![](https://github-contributor-stats.vercel.app/api?username=john-mukhwana&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true)
 
-## TROPHIES 
+</div>
+
+---
+[![](https://visitcount.itsvg.in/api?id=john-mukhwana&icon=5&color=0)](https://visitcount.itsvg.in)
+
+---
+
+## ✍️ Random Dev Quote
+<br/>
+
+<div align="center">
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vision-friendly-dark)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
 <p align="left"> <a href="https://github.com/John-Mukhwana/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=John-Mukhwana" alt="john-mukhwana" /></a> </p>
-
 
