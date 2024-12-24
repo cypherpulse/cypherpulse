@@ -117,8 +117,8 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=John-Mukhwana&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="john-mukhwana" /></p><br>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=John-Mukhwana&layout=compact&theme=vision-friendly-dark" alt="john-mukhwana" /></p><br>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=john-mukhwana" alt="GitHub Streak" /></a>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=John-Mukhwana&layout=compact&theme=vision-friendly-dark" alt="john-mukhwana" /></p><br>
+
 
 
 ## TROPHIES 
