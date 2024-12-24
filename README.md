@@ -117,7 +117,10 @@
 # 📊 GitHub Streak:
 
 
-<div> < a href="https://github-readme-streak-stats.herokuapp.com/?user=john-mukhwana&theme=dark&hide_border=false"> </div>
+<div align="centrer"> 
+  < a href="https://github-readme-streak-stats.herokuapp.com/?user=john-mukhwana&theme=dark&hide_border=false">
+    
+  </div>
 
 <br/>
 
