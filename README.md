@@ -10,7 +10,7 @@
 
   
 
-- 🌱 I’m currently learning JAVASCRIPT,SUPABASE,REACT JS,HONO,DRIZZLE ORM,POSTMAN API ,React Native,Networking,IoT,Generative AI,Networking,Java.
+- 🌱 I’m currently learning JAVASCRIPT,SUPABASE,REACT JS,HONO,DRIZZLE ORM,POSTMAN API ,React Native,Networking,IoT,Generative AI,Blockchain,Java.
   
 
 - ❓ Ask me about anything related to SERN  stack and related technologies ,POSTMAN API ,Huawei Networks.
