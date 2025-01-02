@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning JAVASCRIPT,SUPABASE,REACT JS,HONO,DRIZZLE ORM,POSTMAN API ,React Native,Networking,IoT,Generative AI,Networking,Java.
   
 
-- ❓ Ask me about anything related to SERN  stack and related technologies ,POSTMAN API ,Huawei Nwtworks.
+- ❓ Ask me about anything related to SERN  stack and related technologies ,POSTMAN API ,Huawei Networks.
   
 
 - ⚡ Fun fact: The original name for Windows was 'Interface Manager' before it was changed to Windows in 1985.💻✨"  
