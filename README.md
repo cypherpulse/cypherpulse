@@ -5,12 +5,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
-### <div align="center">I'm John Bradill Mukhwana, a Software Engineer and Cybersecurity  Enthusiast  👨‍💻 Learning new Technologies Everyday to be a valuable Asset  in the Technological World 🚀</div>  
-  
-
-  
-
- I'm young Tech Pan-Africanist on a mission to harness the power of Software Development and Artificial Intelligence to drive transformative change across Africa and the world. As a passionate Software Engineering student at Kirinyaga University, I am committed to tackling critical challenges like tech illiteracy, poverty, and hunger, all while protecting our planet and creating sustainable solutions. 🌍💡
+I'm young Tech Pan-Africanist on a mission to harness the power of Software Development and Artificial Intelligence to drive transformative change across Africa and the world. As a passionate Software Engineering student at Kirinyaga University, I am committed to tackling critical challenges like tech illiteracy, poverty, and hunger, all while protecting our planet and creating sustainable solutions. 🌍💡
   
 
 <br/>  
