@@ -10,13 +10,7 @@
 
   
 
-- 🌱 I’m currently learning JAVASCRIPT,SUPABASE,REACT JS,HONO,DRIZZLE ORM,POSTMAN API ,React Native,Networking,IoT,Generative AI,Blockchain,Java.
-  
-
-- ❓ Ask me about anything related to SERN  stack and related technologies ,POSTMAN API ,Huawei Networks.
-  
-
-- ⚡ Fun fact: The original name for Windows was 'Interface Manager' before it was changed to Windows in 1985💻✨"  
+ I'm young Tech Pan-Africanist on a mission to harness the power of Software Development and Artificial Intelligence to drive transformative change across Africa and the world. As a passionate Software Engineering student at Kirinyaga University, I am committed to tackling critical challenges like tech illiteracy, poverty, and hunger, all while protecting our planet and creating sustainable solutions. 🌍💡
   
 
 <br/>  
