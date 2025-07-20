@@ -3,9 +3,9 @@
 # John-Mukhwana
 
 ---
-<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20DA3D&background=030303&width=435&lines=Hi%2C+I+am+John+Mukhwana)](https://git.io/typing-svg)
-</div>  
+
   
 I'm young Tech Pan-Africanist on a mission to harness the power of Software Development and Artificial Intelligence to drive transformative change across Africa and the world. As a passionate Software Engineering student at Kirinyaga University, I am committed to tackling critical challenges like tech illiteracy, poverty, and hunger, all while protecting our planet and creating sustainable solutions. 🌍💡
   
