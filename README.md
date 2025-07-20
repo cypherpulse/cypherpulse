@@ -6,6 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20DA3D&width=435&lines=Hi%2C+I+am+John+Mukhwana)](https://git.io/typing-svg)
 
+<img src="https://komarev.com/ghpvc/?username=John-Mukhwana&&style=flat-square" align="center" />
   
 I'm young Tech Pan-Africanist on a mission to harness the power of Software Development and Artificial Intelligence to drive transformative change across Africa and the world. As a passionate Software Engineering student at Kirinyaga University, I am committed to tackling critical challenges like tech illiteracy, poverty, and hunger, all while protecting our planet and creating sustainable solutions. 🌍💡
   
@@ -52,22 +53,10 @@ I'm young Tech Pan-Africanist on a mission to harness the power of Software Deve
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=John-Mukhwana&&style=flat-square" align="center" />
-</div>  
+
   
-
 <br/>  
 
-<div align="center">
-            <a href="https://www.buymeacoffee.com/John_Bradlill" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>  
-
-<br/>  
 
 
 ---
