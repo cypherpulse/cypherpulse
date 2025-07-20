@@ -51,13 +51,6 @@ I'm young Tech Pan-Africanist on a mission to harness the power of Software Deve
 
 <br/>  
 
-<br/>  
-
-
-  
-<br/>  
-
-
 
 ---
 
@@ -88,7 +81,7 @@ I'm young Tech Pan-Africanist on a mission to harness the power of Software Deve
 
 </div>
 
-
+---
 ## ✍️ Random Dev Quote
 <br/>
 
@@ -99,6 +92,8 @@ I'm young Tech Pan-Africanist on a mission to harness the power of Software Deve
 </div>
 
 ---
+# Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=John-Mukhwana&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 ## 🏆 GitHub Trophies
 <p align="left"> <a href="https://github.com/John-Mukhwana/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=John-Mukhwana" alt="john-mukhwana" /></a> </p>
