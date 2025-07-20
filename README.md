@@ -122,7 +122,11 @@ I'm young Tech Pan-Africanist on a mission to harness the power of Software Deve
 </div>
 
 ---
+<div align="center">
+
+## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=john-mukhwana&limit=5&theme=vision-friendly-dark&layout=compact)
+</div>
 ---
 
 ## 🔝 Top Contributed Repo
