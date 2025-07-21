@@ -1,15 +1,93 @@
 
+<p align="center">
+<pre>
+<span style="color: #00FF00">
+███╗   ███╗██╗   ██╗██╗  ██╗██╗    ██╗ ███╗   ██╗ █████╗ ███╗   ██╗ █████╗ ███╗   ██╗ █████╗ 
+████╗ ████║██║   ██║██║ ██╔╝██║    ██║ ████╗  ██║██╔══██╗████╗  ██║██╔══██╗████╗  ██║██╔══██╗
+██╔████╔██║██║   ██║█████╔╝ ██║ █╗ ██║ ██╔██╗ ██║███████║██╔██╗ ██║███████║██╔██╗ ██║███████║
+██║╚██╔╝██║██║   ██║██╔═██╗ ██║███╗██║ ██║╚██╗██║██╔══██║██║╚██╗██║██╔══██║██║╚██╗██║██╔══██║
+██║ ╚═╝ ██║╚██████╔╝██║  ██╗╚███╔███╔╝ ██║ ╚████║██║  ██║██║ ╚████║██║  ██║██║ ╚████║██║  ██║
+╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝ ╚══╝╚══╝  ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
+</span>
+</pre>
+</p>
 
-# John-Mukhwana
+<br/>
 
----
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20DA3D&width=435&lines=Hi%2C+I+am+John+Mukhwana)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20DA3D&width=500&lines=Hi%2C+I'm+Mukhwana;🚀+Coding+the+future...;🔗+Building+on-chain...;🤖+AI+for+good...;🛡️+Securing+the+web...;🌍+Empowering+Africa+with+tech...)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=John-Mukhwana&&style=flat-square" align="center" />
-  
-I'm young Tech Pan-Africanist on a mission to harness the power of Software Development and Artificial Intelligence to drive transformative change across Africa and the world. As a passionate Software Engineering student at Kirinyaga University, I am committed to tackling critical challenges like tech illiteracy, poverty, and hunger, all while protecting our planet and creating sustainable solutions. 🌍💡
-  
+[![Dev.to](https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/John-Mukhwana) &nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/johnbradillmukhwana) &nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/John-Mukhwana) &nbsp;
+[![Blog](https://img.shields.io/badge/Blog-%23FF5722.svg?&style=for-the-badge&logo=blogger&logoColor=white)](https://the-tech-checkmate.blogspot.com/) &nbsp;
+<img src="https://komarev.com/ghpvc/?username=John-Mukhwana&&style=flat-square" alt="Profile Views" />  
+
+## 🚀 About Me  
+
+![Tech Pan-Africanist](https://img.shields.io/badge/🌍-Tech_Pan--Africanist-orange) 
+![Software Engineer](https://img.shields.io/badge/💻-Software_Engineer-blue)
+![AI for Good](https://img.shields.io/badge/🤖-AI_for_Good-green)
+![🔗 Blockchain Builder](https://img.shields.io/badge/🔗-Blockchain_Builder-black)
+![🌐 Web3 Enthusiast](https://img.shields.io/badge/🌐-Web3_Enthusiast-purple)
+![🚀 Open Source Contributor](https://img.shields.io/badge/🚀-Trainer-yellowgreen)
+![📚 Lifelong Learner](https://img.shields.io/badge/📚-Lifelong_Learner-lightgrey)
+
+👨‍💻 *Code. Build. Impact.*  
+🌍 *Empowering Africa through Software Development & AI.*  
+
+💥 **Quick Facts:**  
+- 🎓 *Software Engineering @ Kirinyaga University*  
+- 🛠️ *On a mission to solve:*  
+  - 🖥️ **Tech Illiteracy**  
+  - 🥖 **Poverty & Hunger**  
+  - 🌱 **Sustainable Development**
+- 🧠 Mindset Shift: Consumers → Creators
+- 🔗 *Building tools for global impact.*  
+- 🧠 *Learning daily, sharing knowledge, creating change.*  
+
+💬 *"Hacking solutions, not systems. Building tools, not walls. Coding for change, not chaos."*
+
+
+[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.paypal.com/ncp/payment/EW2SX774HUNAW)
+ 
+<br/> 
+
+--- 
+
+### 🛠️ **I don’t sign papers… I *deploy* them 👇**
+
+<br/> 
+
+``` solidity
+
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.19;
+
+contract SoftwareEngineer {
+
+    string public name;
+    string public title;
+    string[] public skills;
+    address public owner;
+
+    constructor() {
+        name = "John Mukhwana";
+        title = "On-Chain Architect 🧠 ";
+        skills = ["Solidity 🦾", "Rust 🦀", "TypeScript 🌐", "Python 🐍", "Hacking The Matrix 🕶️"];
+        owner = msg.sender;
+    }
+
+    function hackTheWorld() public pure returns (string memory) {
+        return "👾 Hack the World. Build on-chain. Save the future. 🌐";
+    }
+
+    function godMode() public view returns (string memory) {
+        require(msg.sender == owner, "🚫 Access Denied: You are not the chosen one.");
+        return "🔓 God Mode Activated: Deploying smart contracts to save the world 🌍";
+    }
+}
+```
 
 <br/>  
 
@@ -22,19 +100,6 @@ I'm young Tech Pan-Africanist on a mission to harness the power of Software Deve
 
 <br/>  
 
-
-## 🌐Connect with me  
-<div align="center;">
-<a href="https://dev.to/John-Mukhwana" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/John-Mukhwana" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/johnbradillmukhwana) 
-</div>  
-  
 
 <br/> 
 
