@@ -37,7 +37,7 @@
 🌍 *Empowering Africa through Software Development & AI.*  
 
 💥 **Quick Facts:**  
-- 🎓 *Software Engineering @ Kirinyaga University*  
+- 🎓 *Software Engineering*  
 - 🛠️ *On a mission to solve:*  
   - 🖥️ **Tech Illiteracy**  
   - 🥖 **Poverty & Hunger**  
