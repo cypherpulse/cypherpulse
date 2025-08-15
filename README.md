@@ -54,6 +54,7 @@
 <br/> 
 
 --- 
+<!---
 
 ### 🛠️ **I don’t sign papers… I *deploy* them 👇**
 
@@ -90,7 +91,7 @@ contract SoftwareEngineer {
 ```
 
 <br/>  
-
+--->
 
 ---
 
