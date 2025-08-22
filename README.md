@@ -62,7 +62,7 @@
 ![Matrix Banner](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
 
-_Curated by John Mukhwana • OnChain Visionary_
+_Curated by cypherpulse.base.eth • OnChain Visionary_
 
 ## 🏛️ Welcome to the Vault
 
