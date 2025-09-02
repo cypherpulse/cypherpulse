@@ -64,7 +64,7 @@
 
 _Curated by cypherpulse.base.eth • OnChain Visionary_
 
-## 🏛️ Welcome to the Vault
+## 🏛️ Welcome To The Vault
 
 Step inside a living gallery of digital architecture, where **art meets engineering** and **ideas become infrastructure**.
 
