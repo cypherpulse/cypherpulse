@@ -155,7 +155,7 @@ Step inside a living gallery of digital architecture, where **art meets engineer
 ---
 
 
-## 📊 GitHub streak
+## 📊 GitHub Streak
 
 <br/>
 <div align="center">
