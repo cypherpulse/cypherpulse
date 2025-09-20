@@ -184,7 +184,7 @@ Step inside a living gallery of digital architecture, where **art meets engineer
 </div>
 
 ---
-## ✍️ Random Dev Quote
+## ✍️ Random Dev Quotes
 <br/>
 
 <div align="center">
