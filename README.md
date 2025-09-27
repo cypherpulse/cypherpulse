@@ -46,7 +46,7 @@
 - 🔗 *Building tools for global impact.*  
 - 🧠 *Learning daily, sharing knowledge, creating change.*  
 
-💬 *"Hacking solutions, not systems. Building tools, not walls. Coding for change, not chaos."*
+💬 *"Hacking solution, not systems. Building tools, not walls. Coding for change, not chaos."*
 
 
 [![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.paypal.com/ncp/payment/EW2SX774HUNAW)
