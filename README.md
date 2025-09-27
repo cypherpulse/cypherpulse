@@ -33,7 +33,7 @@
 ![🚀 Open Source Contributor](https://img.shields.io/badge/🚀-Trainer-yellowgreen)
 ![📚 Lifelong Learner](https://img.shields.io/badge/📚-Lifelong_Learner-lightgrey)
 
-👨‍💻 *Code. Build. Impact*  
+👨‍💻 *Code. Build. Impact.*  
 🌍 *Empowering Africa through Software Development & AI.*  
 
 💥 **Quick Facts:**  
