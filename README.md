@@ -17,11 +17,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20DA3D&width=500&lines=Hi%2C+I'm+Mukhwana;🚀+Coding+the+future...;🔗+Building+on-chain...;🤖+AI+for+good...;🛡️+Securing+the+web...;🌍+Empowering+Africa+with+tech...)](https://git.io/typing-svg)
 
-[![Dev.to](https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/John-Mukhwana) &nbsp;
+[![Dev.to](https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/cypherpulse) &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/johnbradillmukhwana) &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/John-Mukhwana) &nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/cypherpulse) &nbsp;
 [![Blog](https://img.shields.io/badge/Blog-%23FF5722.svg?&style=for-the-badge&logo=blogger&logoColor=white)](https://the-tech-checkmate.blogspot.com/) &nbsp;
-<img src="https://komarev.com/ghpvc/?username=John-Mukhwana&&style=flat-square" alt="Profile Views" />  
+<img src="https://komarev.com/ghpvc/?username=cypherpulse&&style=flat-square" alt="Profile Views" />  
 
 ## 🚀 About Me  
 
@@ -145,7 +145,7 @@ Step inside a living gallery of digital architecture, where **art meets engineer
 
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=john-mukhwana&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=cypherpulse&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 </div>  
 
@@ -160,7 +160,7 @@ Step inside a living gallery of digital architecture, where **art meets engineer
 <br/>
 <div align="center">
 
-![](https://nirzak-streak-stats.vercel.app/?user=john-mukhwana&theme=vision-friendly-dark&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=cypherpulse&theme=vision-friendly-dark&hide_border=false)<br/>
 
 </div>
 
@@ -169,7 +169,7 @@ Step inside a living gallery of digital architecture, where **art meets engineer
 <div align="center">
 
 ## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=john-mukhwana&limit=5&theme=vision-friendly-dark&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cypherpulse&limit=5&theme=vision-friendly-dark&layout=compact)
 </div>
 
 ---
@@ -179,7 +179,7 @@ Step inside a living gallery of digital architecture, where **art meets engineer
 <br/>
 <div align="center">
   
-![](https://github-contributor-stats.vercel.app/api?username=john-mukhwana&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=cypherpulse&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true)
 
 </div>
 
@@ -195,8 +195,8 @@ Step inside a living gallery of digital architecture, where **art meets engineer
 
 ---
 # Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=John-Mukhwana&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cypherpulse&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 ## 🏆 GitHub Trophies
-<p align="left"> <a href="https://github.com/John-Mukhwana/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=John-Mukhwana" alt="john-mukhwana" /></a> </p>
+<p align="left"> <a href="https://github.com/cypherpulse/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cypherpulse" alt="john-mukhwana" /></a> </p>
 
