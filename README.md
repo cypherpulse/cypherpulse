@@ -198,5 +198,5 @@ Step inside a living gallery of digital architecture, where **art meets engineer
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=cypherpulse&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 ## 🏆 GitHub Trophies
-<p align="left"> <a href="https://github.com/cypherpulse/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cypherpulse" alt="john-mukhwana" /></a> </p>
+<p align="left"> <a href="https://github.com/cypherpulse/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cypherpulse" alt="cypherpulse" /></a> </p>
 
