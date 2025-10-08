@@ -59,7 +59,7 @@
 # 🟣 The Architect's Vault  
 <!-- Cyberpunk Terminal + RPG Sheet Profile for John Mukhwana -->
 
-![Matrix Banner](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+<!--![Matrix Banner](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
 
 _Curated by cypherpulse.base.eth • OnChain Visionary_
@@ -77,6 +77,7 @@ Step inside a living gallery of digital architecture, where **art meets engineer
 - `Automation Scripts`
 - `Web3 Dashboards`
 - `AI-Driven Insights`
+ -->
 
 ## 🧬 DNA
 
