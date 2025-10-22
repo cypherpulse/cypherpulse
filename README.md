@@ -90,7 +90,7 @@ Step inside a living gallery of digital architecture, where **art meets engineer
 ```
 -->
 
-## 🧬 DNA
+<!--- ## 🧬 DNA
 ```
 ┌─────────────────────────────────────────────┐
 │OnChain Architect 🧠                          │
@@ -107,7 +107,7 @@ Step inside a living gallery of digital architecture, where **art meets engineer
 │ Hack the Crisis, Ship the Cure.              │
 └─────────────────────────────────────────────┘
 ```
-
+-->
 ---
 
 ## 🌟 Manifesto
