@@ -34,7 +34,6 @@
 ![📚 Lifelong Learner](https://img.shields.io/badge/📚-Lifelong_Learner-lightgrey)
 
 👨‍💻 *Code. Build. Impact.*  
-🌍 *Empowering Africa through Software Development & AI.*  
 
 💥 **Quick Facts:**  
 - 🎓 *Technology with Humanity*  
