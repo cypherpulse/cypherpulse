@@ -147,7 +147,7 @@ Step inside a living gallery of digital architecture, where **art meets engineer
 
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=cypherpulse&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=cypherpule&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 </div>  
 
@@ -162,7 +162,7 @@ Step inside a living gallery of digital architecture, where **art meets engineer
 <br/>
 <div align="center">
 
-![](https://nirzak-streak-stats.vercel.app/?user=cypherpulse&theme=vision-friendly-dark&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=cypherpuls&theme=vision-friendly-dark&hide_border=false)<br/>
 
 </div>
 
