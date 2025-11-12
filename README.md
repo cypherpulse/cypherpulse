@@ -40,7 +40,6 @@
 - 🛠️ *On a mission to solve:*  
   - 🖥️ **Tech Illiteracy**  
   - 🥖 **Poverty & Hunger**  
-  - 🌱 **Sustainable Development**
 - 🧠 Mindset Shift: Consumers → Creators
 - 🔗 *Building tools for global impact.*  
 - 🧠 *Learning daily, sharing knowledge, creating change.*  
