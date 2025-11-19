@@ -25,7 +25,7 @@
 
 ## 🚀 About Me  
 
-![Tech Pan-Africanist](https://img.shields.io/badge/🌍-Tech_Pan--Africanist-orange) 
+![Technical Trainer](https://img.shields.io/badge/🌍-Tech_Pan--Africanist-orange) 
 ![Software Engineer](https://img.shields.io/badge/💻-Software_Engineer-blue)
 ![AI for Good](https://img.shields.io/badge/🤖-AI_for_Good-green)
 ![🔗 Blockchain Builder](https://img.shields.io/badge/🔗-Blockchain_Builder-black)
