@@ -15,7 +15,7 @@
 <br/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20DA3D&width=500&lines=Hi%2C+I'm+Cypherpulse;🚀+Coding+the+future...;🔗+Building+on-chain...;🤖+AI+for+good...;🛡️+Securing+the+web...;🌍+Empowering+Africa+with+tech...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20DA3D&width=500&lines=Hi%2C+I'm+Cypherpulse;🚀+Coding+the+future...;🔗+Building+on-chain...;🤖+AI+for+good...;🛡️+Securing+the+web...;🌍+Onboarding+Everyone+Onchain...)](https://git.io/typing-svg)
 
 [![Dev.to](https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/cypherpulse) &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/johnbradillmukhwana) &nbsp;
