@@ -49,16 +49,9 @@
 
 --- 
 
-<!-- 3. THE VAULT (LUXURY GALLERY) STYLE -->
-<!--- # 🟣 The Architect's Vault  --->
-<!-- Cyberpunk Terminal + RPG Sheet Profile for John Mukhwana -->
 
 <!--![Matrix Banner](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
-
-_Curated by cypherpulse.base.eth • OnChain Visionary_
-
-## 🏛️ Welcome To The Vault
 
 Step inside a living gallery of digital architecture, where **art meets engineering** and **ideas become infrastructure**.
 
