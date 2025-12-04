@@ -18,9 +18,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20DA3D&width=500&lines=Hi%2C+I'm+Cypherpulse;🚀+Coding+the+future...;🔗+Building+on-chain...;🤖+AI+for+good...;🛡️+Securing+the+web...;🌍+Onboarding+Everyone+Onchain...)](https://git.io/typing-svg)
 
 [![Dev.to](https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/cypherpulse) &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/johnbradillmukhwana) &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/cypherpulse) &nbsp;
-[![Blog](https://img.shields.io/badge/Blog-%23FF5722.svg?&style=for-the-badge&logo=blogger&logoColor=white)](https://the-tech-checkmate.blogspot.com/) &nbsp;
+[![Blog](https://img.shields.io/badge/Blog-%23FF5722.svg?&style=for-the-badge&logo=blogger&logoColor=white)](https://paragraph.com/@cypherpulse) &nbsp;
 <img src="https://komarev.com/ghpvc/?username=cypherpulse&&style=flat-square" alt="Profile Views" />  
 
 ## 🚀 About Me  
