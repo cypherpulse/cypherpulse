@@ -1,5 +1,10 @@
 
 <p align="center">
+  <img src="https://res.cloudinary.com/dbczn8b8l/image/upload/v1765588980/ojhqfdgxpheo7opr19ru.png" alt="Banner" width="800" />
+</p>
+
+<!--
+<p align="center">
 <pre>
 <span style="color: #00FF00">
 ███╗   ███╗██╗   ██╗██╗  ██╗██╗    ██╗ ███╗   ██╗ █████╗ ███╗   ██╗ █████╗ ███╗   ██╗ █████╗ 
@@ -11,8 +16,10 @@
 </span>
 </pre>
 </p>
+-->
 
 <br/>
+
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20DA3D&width=500&lines=Hi%2C+I'm+Cypherpulse;🚀+Coding+the+future...;🔗+Building+on-chain...;🤖+AI+for+good...;🛡️+Securing+the+web...;🌍+Onboarding+Everyone+Onchain...)](https://git.io/typing-svg)
