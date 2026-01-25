@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dbczn8b8l/image/upload/v1765588980/ojhqfdgxpheo7opr19ru.png" alt="Banner" width="800" />
+  <img src="https://res.cloudinary.com/dg5rr4ntw/image/upload/v1769374200/Blue_Modern_Corporate_Staff_Profile_LinkedIn_Banner_6_id6qyf.png" alt="Banner" width="800" />
 </p>
 
 <!--
