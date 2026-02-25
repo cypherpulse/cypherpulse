@@ -29,7 +29,7 @@
 [![Blog](https://img.shields.io/badge/Blog-%23FF5722.svg?&style=for-the-badge&logo=blogger&logoColor=white)](https://paragraph.com/@cypherpulse) &nbsp;
 <img src="https://komarev.com/ghpvc/?username=cypherpulse&&style=flat-square" alt="Profile Views" />  
 
-## 🚀 About Me  
+## About Me  
 
 ![Software Engineer](https://img.shields.io/badge/💻-Software_Engineer-blue)
 ![AI for Good](https://img.shields.io/badge/🤖-AI_for_Good-green)
@@ -38,13 +38,6 @@
 ![🚀 Open Source Contributor](https://img.shields.io/badge/🚀-Trainer-yellowgreen)
 ![📚 Lifelong Learner](https://img.shields.io/badge/📚-Lifelong_Learner-lightgrey)
 
-👨‍💻 *Code. Build. Impact.*  
-
-💥 **Quick Facts:**  
-- 🎓 *Technology with Humanity*  
-- 🧠 Mindset Shift: Consumer → Creator
-- 🔗 *Building tools for global impact.*  
-- 🧠 *Learning daily, sharing knowledge, creating change.*  
 
 💬 *"Hacking solution, not systems. Building tools, not walls. Coding for change, not chaos."*
 
