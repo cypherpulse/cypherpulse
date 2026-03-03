@@ -75,8 +75,40 @@
 ║Unravel Chaos, Recompile Humanity.║
 ╚══════════════════════════════════╝
 ``` 
-
+---
 <br/>  
+
+## 🛠️ Things I Built
+
+> A collection of products, tools, and experiments — from AI assistants to blockchain dApps.
+
+---
+
+| # | 🚀 Product | 📝 Description |
+|---|-----------|----------------|
+| 1 | [**CouponHub**](https://couponshub.netlify.app) | Unlock a world of free learning — instantly access 100% working coupons, free courses, scholarships, job links, events, hackathons, and resources. Trusted by **50,000+ learners** saving money while mastering tech, business, coding, and creative skills. |
+| 2 | [**Mkulima AI**](https://mkulima-ai-lemon.vercel.app/) | A voice-first AI-powered agricultural assistant designed for smallholder farmers in Africa. Provides personalized crop advice, pest control recommendations, and real-time weather information. |
+| 3 | [**DharuraAI**](https://dharura-ai.vercel.app/) | Your personal AI-powered first aid assistant — providing instant medical guidance when you need it most. Available **24/7** to help you handle medical emergencies with confidence. |
+| 4 | [**Z-Agent**](https://www.zedagent.xyz/) | Empowers degens, traders, and buyers on Zora with cutting-edge AI insights. Analyze coins, schedule trades, create tokens, and build winning watchlists with an intelligent on-chain platform. |
+| 5 | [**BasedPuzzles MiniApp**](https://based-puzzles.vercel.app/) | A mini app featuring Sudoku and crypto-themed Crosswords, built on Base. Part game, part onchain experience. |
+| 6 | [**SimpleBasedWallet**](https://github.com/cypherpulse/simpleBasedWallet) | A decentralized wallet app on Base blockchain — combining a secure Solidity smart contract with a modern React frontend. Supports ETH on Base Sepolia testnet and Base mainnet. |
+| 7 | [**BatchPay**](https://batch-pay.vercel.app/) | A secure, efficient multi-payment system for payroll on the Base network. Enables batch ETH transfers with employee management and a transparent **0.5% fee structure**. |
+| 8 | [**SupermarketPOS**](https://supermarket-pos.vercel.app/) | A comprehensive blockchain-based Point of Sale system built for supermarkets — bringing Web3 transparency to everyday retail. |
+| 9 | [**Web3 Economy**](https://web3economy.xyz/) | Unlocking the future of the onchain world by onboarding builders, creators, and visionaries into the decentralized economy. |
+| 10 | [**cSavings**](https://github.com/cypherpulse/cSavings) | A secure, battle-tested pooled savings vault smart contract for cUSD (Celo Dollar) on the Celo blockchain. Built with industry-standard security patterns and Ethereum best practices. |
+| 11 | [**cRepute**](https://github.com/cypherpulse/cRepute) | Enables transparent reputation building on Celo by storing reviews immutably onchain — trustless, permanent, and verifiable. |
+| 12 | [**SatoshiFarm**](https://satoshi-farm.vercel.app/) | A decentralized marketplace on Stacks empowering farmers to sell directly to buyers, accepting **STX and USDCx**. Removes intermediaries and enables real-world commerce on Web3 rails. |
+| 13 | [**DualPay**](https://github.com/cypherpulse/Dual-Pay) | A decentralized marketplace on Stacks enabling secure peer-to-peer trading with multi-currency support (**STX & sBTC**) through Clarity smart contracts. |
+| 14 | [**sBTCSimpleWallet**](https://github.com/cypherpulse/sBTCSimpleWallet) | A decentralized wallet for managing sBTC (Stacks Bitcoin) on the Stacks blockchain using Clarity smart contracts — secure, user-friendly, and built for Bitcoin-backed assets. |
+| 15 | [**HermesBridge**](https://hermes-sage.vercel.app/) | Bridge USDC across **Ethereum, Solana, and Stacks** — seamless multichain stablecoin transfers in one interface. |
+| 16 | [**HermesFaucet**](https://hermes-sage.vercel.app/faucet) | Claim **5 USDCx every 24 hours** for testing on Stacks — a developer-friendly faucet for the Stacks ecosystem. |
+| 17 | [**OphirAI Protocol**](https://ophirai.netlify.app/) | The Stacks infrastructure and protocol for Autonomous Agents — building the foundation for AI-driven, onchain intelligence on Stacks. |
+
+---
+
+<p align="center">
+  <i>Building at the intersection of AI, Web3, and real-world impact. 🌍⛓️</i>
+</p>
 
 
 <br/> 
