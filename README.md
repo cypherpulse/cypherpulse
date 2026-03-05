@@ -102,7 +102,9 @@
 | 14 | [**sBTCSimpleWallet**](https://github.com/cypherpulse/sBTCSimpleWallet) | A decentralized wallet for managing sBTC (Stacks Bitcoin) on the Stacks blockchain using Clarity smart contracts — secure, user-friendly, and built for Bitcoin-backed assets. |
 | 15 | [**HermesBridge**](https://hermes-sage.vercel.app/) | Bridge USDC across **Ethereum, Solana, and Stacks** — seamless multichain stablecoin transfers in one interface. |
 | 16 | [**HermesFaucet**](https://hermes-sage.vercel.app/faucet) | Claim **5 USDCx every 24 hours** for testing on Stacks — a developer-friendly faucet for the Stacks ecosystem. |
-| 17 | [**OphirAI Protocol**](https://ophirai.netlify.app/) | The Stacks infrastructure and protocol for Autonomous Agents — building the foundation for AI-driven, onchain intelligence on Stacks. |
+| 17 | [**OphirAI Protocol**](https://ophirai.netlify.app/) | The Stacks infrastructure and protocol for Autonomous Agents — building the foundation for AI-driven, onchain intelligence on Stacks. | 
+| 18 | [**Bradley Coin (sBC)**](https://sbc-token.vercel.app/) | A SIP-010 compliant fungible token on Stacks, featuring DeFi integration,Post-condition, comprehensive Clarinet testing, and a full-stack educational implementation for learners and builders. 
+
 
 ---
 
