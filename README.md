@@ -123,7 +123,7 @@
 
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=cypherpulse&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.shion.dev/api?username=cypherpulse&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 </div>  
 
@@ -138,7 +138,7 @@
 <br/>
 <div align="center">
 
-![](https://nirzak-streak-stats.vercel.app/?user=cypherpulse&theme=vision-friendly-dark&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=cypherpulse&theme=vision-friendly-dark&hide_border=false)<br/>
 
 </div>
 
@@ -147,7 +147,7 @@
 <div align="center">
 
 ## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cypherpulse&limit=5&theme=vision-friendly-dark&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=cypherpulse&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
 ---
@@ -156,8 +156,9 @@
 
 <br/>
 <div align="center">
-  
+
 ![](https://github-contributor-stats.vercel.app/api?username=cypherpulse&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true)
+
 
 </div>
 
